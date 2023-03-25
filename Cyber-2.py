@@ -1,4 +1,5 @@
-import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
+
+  import requests,bs4,json,sys,random,datetime,time,re,subprocess,platform,struct
 from bs4 import BeautifulSoup as sop
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 import os
@@ -185,11 +186,11 @@ logo = """
                                       
  \033[1;93m×××××××××××××××××\033[1;93m××××××××××××××\033[1;93m××××××××××××××××××
  \033[1;93m|     \033[1;96m[✓] CREATED BY\33[0;m   :  \033[1;96mZIHAD ISLAM   \033[1;93m|
- \033[1;93m|     \033[1;32m[✓] FACEBOK      : \033[1;34m ZIHAD ISLAM MEHEDI		 \033[1;93m|
- \033[1;93m|     \033[1;35m[✓] GITHUB       :  \033[1;35mCYBER-31..           \033[1;93m|
+ \033[1;93m|     \033[1;32m[✓] FACEBOK      : \033[1;34m ZIHAD ISLAM MEHEDI    \033[1;93m|
+ \033[1;93m|     \033[1;35m[✓] GITHUB       :  \033[1;35mCYBER-31..                          \033[1;93m|
  \033[1;93m|     \033[1;36m[✓] TOOL STATUS  : \033[1;36m Random Cloning BD     \033[1;93m|
- \033[1;93m|     \033[1;35m[✓] TEAM         :  \033[1;35mSKB                   \033[1;93m|
- \033[1;93m|     \033[1;36m[✓] TOOL VIRSION :  \033[1;36mMAX                   \033[1;93m|
+ \033[1;93m|     \033[1;35m[✓] TEAM         :  \033[1;35mCTC                                         \033[1;93m|
+ \033[1;93m|     \033[1;36m[✓] TOOL VIRSION :  \033[1;36mMAX                                 \033[1;93m|
  \033[1;93m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;93m×××××××××××××××××
  \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m PLZ SAPPORT ME BRO....
  \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m TWC TERMUX HELPING ZONE....
@@ -211,11 +212,11 @@ khld = """
          
  \033[1;93m×××××××××××××××××\033[1;93m××××××××××××××\033[1;93m××××××××××××××××××
  \033[1;93m|     \033[1;96m[✓] CREATED BY\33[0;m   :  \033[1;96mZIHAD ISLAM  \033[1;93m|
- \033[1;93m|     \033[1;32m[✓] FACEBOK      : \033[1;34m ZIHAD ISLAM MEHEDI		 \033[1;93m|
- \033[1;93m|     \033[1;35m[✓] GITHUB       :  \033[1;35mCYBER-31..           \033[1;93m|
- \033[1;93m|     \033[1;36m[✓] TOOL STATUS  : \033[1;36m Random Cloning BD     \033[1;93m|
- \033[1;93m|     \033[1;35m[✓] TEAM         :  \033[1;35mSKB                   \033[1;93m|
- \033[1;93m|     \033[1;36m[✓] TOOL VIRSION :  \033[1;36mMAX                   \033[1;93m|
+ \033[1;93m|     \033[1;32m[✓] FACEBOK      : \033[1;34m ZIHAD ISLAM MEHEDI   \033[1;93m|
+ \033[1;93m|     \033[1;35m[✓] GITHUB       :  \033[1;35mCYBER-31..                         \033[1;93m|
+ \033[1;93m|     \033[1;36m[✓] TOOL STATUS  : \033[1;36m Random Cloning BD   \033[1;93m|
+ \033[1;93m|     \033[1;35m[✓] TEAM         :  \033[1;35mCTC                                       \033[1;93m|
+ \033[1;93m|     \033[1;36m[✓] TOOL VIRSION :  \033[1;36mMAX                              \033[1;93m|
  \033[1;93m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;93m×××××××××××××××××
  \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m PLZ SAPPORT ME BRO....
  \033[1;91m[\033[1;97m•\033[1;91m]\033[1;32m TWC TERMUX HELPING ZONE....
@@ -320,4 +321,10 @@ def rcrack(uid,pwx,tl):
 	except:
 		pass
 ALEX()
+
+
+        
+
+     
+
 
